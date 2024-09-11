@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+div{
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+table{
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+}
+
+th{
+    height: 50px;
+    padding: 10px;
+}
+
+td{
+    padding: 5px;
+}
+
+p{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
